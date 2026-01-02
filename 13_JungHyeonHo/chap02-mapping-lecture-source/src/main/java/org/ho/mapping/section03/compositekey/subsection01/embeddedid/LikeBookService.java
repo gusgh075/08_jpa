@@ -1,6 +1,7 @@
-package org.ho.mapping.section03.compositekey;
+package org.ho.mapping.section03.compositekey.subsection01.embeddedid;
 
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 @Service
 public class LikeBookService {

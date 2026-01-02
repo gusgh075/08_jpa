@@ -1,4 +1,4 @@
-package org.ho.mapping.section03.compositekey;
+package org.ho.mapping.section03.compositekey.subsection01.embeddedid;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
